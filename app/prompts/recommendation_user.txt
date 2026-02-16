@@ -1,0 +1,1 @@
+Based on the current global payment metrics provided below, generate exactly 3 actionable bullet points with recommendations for the business team to improve payment performance and reduce fraud.

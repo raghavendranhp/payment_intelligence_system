@@ -1,0 +1,2 @@
+Please analyze the following payment metrics for the requested period. 
+Provide a concise, single-paragraph summary highlighting the most important trends and areas of concern.

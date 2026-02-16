@@ -1,0 +1,1 @@
+Analyze the following transaction for fraud risk and return the explanation and recommendation in the required JSON format.
