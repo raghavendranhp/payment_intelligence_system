@@ -58,7 +58,7 @@ with tab2:
     st.header("AI Fraud Risk Explanation")
     st.write("Analyze a specific transaction for heuristic risk factors and AI explanations.")
     
-    # TX10031 is a known failed transaction in your dataset
+    
     tx_id = st.text_input("Transaction ID", value="TX10031")
     
     if st.button("Analyze Risk", type="primary"):
